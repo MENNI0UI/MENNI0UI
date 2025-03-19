@@ -10,7 +10,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 
-![snake gif](https://github.com/menni0ui/menni0ui/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/menni0ui/menni0ui/blob/output/github-contribution-grid-snake.svg)
 
 
   ## 💰 You can help me by Donating
